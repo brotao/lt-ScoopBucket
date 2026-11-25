@@ -1,12 +1,12 @@
 {
-    "version": "26.11.3",
+    "version": "26.11.4",
     "description": "欧路词典 (Eudic) - 权威的英语词典软件，英语学习者必备的工具",
     "homepage": "https://www.eudic.net/",
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://static.eudic.net/pkg/pack_en.zip?v=26.11.3",
-            "hash": "dc1aab66efad64717c95b6f6ebcb2352f22514fd22232ffe1d3310a89715ff96"
+            "url": "https://static.eudic.net/pkg/pack_en.zip?v=26.11.4",
+            "hash": "45db1224dba96f0012da95b0297d4e66c357c88f37d79a736d75363630c28ff5"
         }
     },
     "extract_dir": "eudic",
